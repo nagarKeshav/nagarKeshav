@@ -67,10 +67,16 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <!-- IMPORTANT: Replace the URLs with your actual profile links -->
 <p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/bhola-shankar-nagar-a83a5428b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>  
-  <a href="mailto:your.email@example.com">
+  </a>  
+  <a href="https://x.com/Mr__7keshav" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>  
+  <a href="https://www.instagram.com/mr__7keshav__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>  
+  <a href="mailto:your.lokocode8gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
