@@ -1,66 +1,68 @@
-<h1 align="center">Hi 👋, I'm Keshav Nagar</h1>
-<h3 align="center">💻 BCA Student | 🌐 Web Developer | 🧠 Always Learning</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<div align="center">
+  <h1>
+    Hi there, I'm Keshav Nagar 👋
+  </h1>
+</div>
 
-- 🔭 I’m currently building **full-stack web apps** using **React + Firebase + Node.js**
-
-- 🌱 I’m currently learning **Express.js**, **MongoDB**, and **backend authentication**
-
-- 👨‍💻 All my projects are available at: [GitHub](https://github.com/nagarKeshav?tab=repositories)
-
-- 💬 Ask me about **JavaScript**, **React**, **Firebase**, **REST APIs**, or **Node.js**
-
-- 📫 How to reach me: `keshavnagar@gmail.com` *(replace with real if needed)*
-
-- ⚡ Fun fact: I love turning ideas into code ⚙️ and coffee makes me debug better ☕
-
+I'm a passionate full-stack developer and a BCA student from India. I love building dynamic and user-friendly web applications from scratch, bringing ideas to life through clean and efficient code. I'm always eager to learn new technologies and collaborate on exciting projects.
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 My Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
----
-
-## 🧩 My Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [**Room Rental App**](https://github.com/nagarKeshav/room-rental-app) | Connects students with room owners | React, Firebase, Cloudinary |
-| [**Weather App**](https://github.com/nagarKeshav/Weather-app) | Realtime weather info by location | JavaScript, OpenWeatherMap API |
-| [**JS Hindi Notes**](https://github.com/nagarKeshav/js-hindhi) | Learn JavaScript in Hindi | JavaScript |
-| [**Chai React**](https://github.com/nagarKeshav/chai-react.js) | A fun repo to practice React | React.js |
-
----
-
-## 📈 GitHub Stats
+Here are some of the technologies I'm proficient in:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagarKeshav&show_icons=true&theme=radical" alt="Keshav's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarKeshav&theme=radical" alt="GitHub Streak" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,firebase,mongodb,git" />
+  </a>
 </p>
 
 ---
 
-## 📫 Let's Connect
+### 💻 My Projects
 
-- 🌐 Portfolio: *Coming soon*
-- 💼 [LinkedIn](https://linkedin.com) *(update link)*
-- 📷 [Instagram](https://instagram.com) *(optional)*
+Here's a selection of projects I've worked on. You can find more on my repositories tab!
+
+| Project | Description | Tech Stack | Live/Repo Link |
+| :--- | :--- | :--- | :--- |
+| **Room Rental App** | A full-stack application for users to list and browse rental rooms. | `React` `Firebase` `Cloudinary` | [🔗 GitHub](https://github.com/nagarKeshav/room-rental-app) |
+| **Weather App** | A clean and simple app to check real-time weather for any city. | `JavaScript` `HTML/CSS` `OpenWeather API` | [🔗 GitHub](https://github.com/nagarKeshav/Weather-app) |
+| **JS Notes in Hindi** | Comprehensive JavaScript notes written in Hindi to help the developer community. | `JavaScript` `Markdown` | [🔗 GitHub](https://github.com/nagarKeshav/js-hindhi) |
+| **Chai React Projects** | A collection of fun and mini-projects built while learning React.js. | `React.js` `JavaScript` `CSS` | [🔗 GitHub](https://github.com/nagarKeshav/chai-react.js) |
 
 ---
 
-> 🚀 “Code like a developer. Think like a product manager. Grow like an entrepreneur.”  
-> — *Keshav Nagar*
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagarKeshav&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Keshav's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarKeshav&theme=dracula" alt="Keshav's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarKeshav&layout=compact&theme=dracula" alt="Keshav's Top Languages" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+<!-- IMPORTANT: Replace the URLs with your actual profile links -->
+<p align="center">
+  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>  
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
