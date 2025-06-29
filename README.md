@@ -28,17 +28,26 @@ Here are some of the technologies I'm proficient in:
 
 ---
 
-### 💻 My Projects
+### 💻 Featured Projects
 
-Here's a selection of projects I've worked on. You can find more on my repositories tab!
+Here's a selection of my projects. Each card is a clickable link to the repository!
 
-| Project | Description | Tech Stack | Live/Repo Link |
-| :--- | :--- | :--- | :--- |
-| 🚀 **Room Rental App** | A full-stack application for users to list and browse rental rooms. | `React` `Firebase` `Cloudinary` | [🔗 GitHub](https://github.com/nagarKeshav/room-rental-app) |
-| 🌦️ **Weather App** | A clean and simple app to check real-time weather for any city. | `JavaScript` `HTML/CSS` `API` | [🔗 GitHub](https://github.com/nagarKeshav/Weather-app) |
-| 📝 **JS Notes in Hindi** | Comprehensive JavaScript notes in Hindi to help the developer community. | `JavaScript` `Markdown` | [🔗 GitHub](https://github.com/nagarKeshav/js-hindhi) |
-| 🎨 **Chai React Projects** | A collection of fun and mini-projects built while learning React.js. | `React.js` `JavaScript` | [🔗 GitHub](https://github.com/nagarKeshav/chai-react.js) |
-
+<p align="center">
+  <a href="https://github.com/nagarKeshav/room-rental-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=room-rental-app&theme=dracula&show_icons=true&icon_color=42b883&title_color=f85d7f&text_color=ffffff" alt="Room Rental App">
+  </a>
+  <a href="https://github.com/nagarKeshav/Weather-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=Weather-app&theme=dracula&show_icons=true&icon_color=f0db4f&title_color=f85d7f&text_color=ffffff" alt="Weather App">
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/nagarKeshav/js-hindhi" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=js-hindhi&theme=dracula&show_icons=true&icon_color=f0db4f&title_color=f85d7f&text_color=ffffff" alt="JS Notes in Hindi">
+  </a>
+  <a href="https://github.com/nagarKeshav/chai-react.js" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=chai-react.js&theme=dracula&show_icons=true&icon_color=61dafb&title_color=f85d7f&text_color=ffffff" alt="Chai React Projects">
+  </a>
+</p>
 
 ---
 
