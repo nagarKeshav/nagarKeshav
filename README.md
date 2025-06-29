@@ -1,7 +1,7 @@
 <!-- Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="600" height="150">
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!-- Typing SVG -->
 <div align="center">
