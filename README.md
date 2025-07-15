@@ -36,8 +36,8 @@ Here's a selection of my projects. Each card is a clickable link to the reposito
   <a href="https://github.com/nagarKeshav/room-rental-app" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=room-rental-app&theme=dracula&show_icons=true&icon_color=42b883&title_color=f85d7f&text_color=ffffff" alt="Room Rental App">
   </a>
-  <a href="https://github.com/nagarKeshav/Weather-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=Weather-app&theme=dracula&show_icons=true&icon_color=f0db4f&title_color=f85d7f&text_color=ffffff" alt="Weather App">
+  <a href="https://github.com/nagarKeshav/SHIFRA-Virtual-Assistant" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=Weather-app&theme=dracula&show_icons=true&icon_color=f0db4f&title_color=f85d7f&text_color=ffffff" alt="SHIFRA-Virtual-Assistant">
   </a>
   <br>
   <br>
