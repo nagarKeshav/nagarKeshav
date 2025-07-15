@@ -31,23 +31,26 @@ Here are some of the technologies I'm proficient in:
 ### 💻 Featured Projects
 
 Here's a selection of my projects. Each card is a clickable link to the repository!
-
 <p align="center">
   <a href="https://github.com/nagarKeshav/room-rental-app" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=room-rental-app&theme=dracula&show_icons=true&icon_color=42b883&title_color=f85d7f&text_color=ffffff" alt="Room Rental App">
   </a>
-  <a href="https://github.com/nagarKeshav/SHIFRA-Virtual-Assistant" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=Weather-app&theme=dracula&show_icons=true&icon_color=f0db4f&title_color=f85d7f&text_color=ffffff" alt="SHIFRA-Virtual-Assistant">
+  <a href="https://github.com/nagarKeshav/Weather-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=Weather-app&theme=dracula&show_icons=true&icon_color=f0db4f&title_color=f85d7f&text_color=ffffff" alt="Weather App">
   </a>
-  <br>
-  <br>
+  <br><br>
   <a href="https://github.com/nagarKeshav/js-hindhi" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=js-hindhi&theme=dracula&show_icons=true&icon_color=f0db4f&title_color=f85d7f&text_color=ffffff" alt="JS Notes in Hindi">
   </a>
   <a href="https://github.com/nagarKeshav/chai-react.js" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=chai-react.js&theme=dracula&show_icons=true&icon_color=61dafb&title_color=f85d7f&text_color=ffffff" alt="Chai React Projects">
   </a>
+  <br><br>
+  <a href="https://github.com/nagarKeshav/SHIFRA-Virtual-Assistant" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarKeshav&repo=SHIFRA-Virtual-Assistant&theme=dracula&show_icons=true&icon_color=ff79c6&title_color=f85d7f&text_color=ffffff" alt="SHIFRA Virtual Assistant">
+  </a>
 </p>
+
 
 ---
 
